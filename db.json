@@ -1,1 +1,53 @@
-{}
+{
+    "products": [
+      {
+        "productName": "Game controller",
+        "productImg": "https://cdn.thewirecutter.com/wp-content/media/2022/11/pcgamingcontrollers-2048px-3128.jpg",
+        "productPrice": "3,000",
+        "productDescription": "\nXbox 360 controller",
+        "id": 1
+      },
+      {
+        "productName": "Cup",
+        "productImg": "https://images.unsplash.com/photo-1570784332176-fdd73da66f03?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8Y3VwfGVufDB8fDB8fA%3D%3D&w=1000&q=80",
+        "productPrice": "3,000",
+        "productDescription": "\nXbox 360 controller",
+        "id": 2
+      },
+      {
+        "productName": "Sofa",
+        "productImg": "https://images.sofology.co.uk/c_scale,w_460,q_70,dpr_3,fl_lossy,f_auto/productmedia/lifestyle/sku001032404.jpg",
+        "productPrice": "3,000",
+        "productDescription": "\nXbox 360 controller",
+        "id": 3
+      },
+      {
+        "productName": "Bed",
+        "productImg": "https://images.unsplash.com/photo-1514228742587-6b1558fcca3d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+        "productPrice": "1,000,0000",
+        "productDescription": "Nice",
+        "id": 4
+      },
+      {
+        "productName": "bag",
+        "productImg": "https://rukminim1.flixcart.com/image/832/832/k3ahbww0/small-travel-bag/u/z/e/roz-501-skyblue-22inch-50-liters-heavy-dutty-travel-luggage-bag-original-imafmcgpep58bhwm.jpeg?q=70",
+        "productPrice": "2000",
+        "productDescription": "Lightweight travel bag",
+        "id": 5
+      },
+      {
+        "productName": "Sofa",
+        "productImg": "https://www.bocadolobo.com/blog/wp-content/uploads/2019/05/10-Modern-Chair-Ideas-For-A-Contemporary-Interior-Design-6.jpg",
+        "productPrice": "3000",
+        "productDescription": "Modern chair",
+        "id": 6
+      },
+      {
+        "productName": "Sports shoes",
+        "productImg": "https://www.jiomart.com/images/product/original/rvdnzsvuab/extoes-men-running-shoes-black-7-pack-of-3-product-images-rvdnzsvuab-2-202212080037.jpg",
+        "productPrice": "1500",
+        "productDescription": "Modern sports shoes",
+        "id": 7
+      }
+    ]
+  }
